@@ -8,6 +8,7 @@ react-navigation + react-redux + react-native-router-flux
 ``` javascript
   git clone git@github.com:MBWu/NeteaseCloudMusicApi.git;
   cd ./NeteaseCloudMusicApi
+  npm install
   node app.js
 ```
 

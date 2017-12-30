@@ -15,5 +15,6 @@ react-navigation + react-redux + react-native-router-flux
  ``` javascript
   git@github.com:MBWu/reactnativeCloudmusic.git
   cd ./reactnativeCloudmusic
+  npm install
   react-native run-ios
 ```
